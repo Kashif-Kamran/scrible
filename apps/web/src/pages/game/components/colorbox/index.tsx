@@ -1,6 +1,6 @@
 function Colorbox() {
   return (
-    <div className="border-2 border-red-300 h-20 flex justify-center items-center">
+    <div className="border-2 border-red-300 h-24">
       <h1 className="text-2xl">Color Selection</h1>
     </div>
   );
